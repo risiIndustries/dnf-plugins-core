@@ -34,7 +34,7 @@
 
 Name:           dnf-plugins-core
 Version:        4.2.1
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Core Plugins for DNF
 License:        GPLv2+
 URL:            https://github.com/risiOS/dnf-plugins-core
