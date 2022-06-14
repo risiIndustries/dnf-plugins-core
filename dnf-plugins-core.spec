@@ -37,7 +37,7 @@ Version:        4.2.1
 Release:        1%{?dist}
 Summary:        Core Plugins for DNF
 License:        GPLv2+
-URL:            https://github.com/rpm-software-management/dnf-plugins-core
+URL:            https://github.com/risiOS/dnf-plugins-core
 Source0:        %{url}/archive/%{version}/%{name}-%{version}.tar.gz
 BuildArch:      noarch
 BuildRequires:  cmake
